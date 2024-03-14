@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @TrickB0y
-- 👀 I’m interested in Learn game programming
-- 🌱 I’m currently learning C language 
-- 💞️ I’m looking to collaborate on Games projects
-- 📫 How to reach me: (Discord) trickguy
+- 👋 Hi, I’m Marco Antônio @TrickB0y .
+- 👀 I’m interested in Learn game programming.
+- 🌱 I’m a C/C++ studend.
