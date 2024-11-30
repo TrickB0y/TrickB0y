@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Marco Antônio @TrickB0y .
-- 👀 I’m interested in Learn game programming.
-- 🌱 I’m a C/C++ student.
+- 👋 Oi, Sou Marco Antônio @TrickB0y .
+- 👀 Eu estou interessado em dominar C/C++.
+- 🌱 Eu estudo C/C++.
