@@ -1,4 +1,4 @@
-- 👋 Oi, Sou Marco Antônio @TrickB0y.
-- 🇧🇷  Sou Brasileiro.
-- 👀 Eu estou interessado em dominar C/C++.
-- 🌱 Eu estudo C/C++.
+- 👋 Hi, My name is Marco Antônio @TrickB0y.
+- 🇧🇷 I am Brazilian.
+- 👀 Looking for mastering C/C++.
+- 🌱 Studying C/C++.
